@@ -130,7 +130,7 @@ copy /Y "$(TargetPath)" "%ARTIFACT_DIR%\"</Command>
     <ClCompile Include="..\Detours\src\image.cpp" />
     <ClCompile Include="..\Detours\src\modules.cpp" />
     <ClCompile Include="dllmain.cpp" />
-    <ClCompile Include="xml.hh" />
+    <ClCompile Include="xml.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Detours\src\detours.h" />

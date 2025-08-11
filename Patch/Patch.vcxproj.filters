@@ -21,7 +21,7 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="xml.hh">
+    <ClCompile Include="xml.hpp">
       <Filter>Header Files</Filter>
     </ClCompile>
     <ClCompile Include="..\Detours\src\creatwth.cpp">
